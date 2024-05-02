@@ -6,10 +6,6 @@
 Entusiasta no mundo da programação e tecnologia, atualmente estudando ADS (Análise e Desenvolvimento de Sistemas) no IFRR (Instituto Federal de Ciências e Tecnologia de Roraima), sempre fui curioso e com essa curiosidade acabei descobrindo que existia um mundo na Tecnologia que até então desconhecia, acabei me apaixonando pela Tecnologia e comecei a ver alguns canais e comunidades para me aprofundar e conhecer ainda mais essa área incrível que é a Programação.
 
 ![snake gif](https://github.com/erikmiqueias/erikmiqueias/blob/output/github-contribution-grid-snake.svg)
-<div>
-<a href="https://github.com/erikmiqueias">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikmiqueias&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=erikmiqueias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 
