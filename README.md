@@ -7,6 +7,6 @@ Entusiasta no mundo da programação e tecnologia, atualmente estudando ADS (An�
 
 <div>
 <a href="https://github.com/erikmiqueias">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaAlverne&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaAlverne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikmiqueias&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=erikmiqueias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
