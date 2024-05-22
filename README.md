@@ -20,3 +20,7 @@
 [![Erik top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erikmiqueias&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
+
+<div>
+ ![Snake animation](https://raw.githubusercontent.com/BiaAlverne/BiaAlverne/output/github-contribution-grid-snake.svg)
+</div>
