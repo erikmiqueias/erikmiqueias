@@ -11,7 +11,7 @@
 ### Estudando... 🧠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,typescript,linux,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,react,typescript,nodejs,nextjs,docker,tailwind" />
   </a>
 </p>
 
