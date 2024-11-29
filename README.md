@@ -8,7 +8,7 @@
   <br>
 </div>
 
-### Estudando... 🧠
+### Tecnologias que estou estudando... 🧠
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,typescript,nodejs,nextjs,docker,tailwind" />
