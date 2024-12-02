@@ -7,9 +7,9 @@
 </div>
 
 # "Hello World!" 👋 Eu sou Erik! ( ͡ᵔ ͜ʖ ͡ᵔ)
-### Me graduando em análise e desenvolvimento de sistemas no Instituto Federal de Roraima :) <br>
-##### Estou me dedicando em estudar desenvolvimento Full-Stack com: TypeScript, ReactJS, NextJS, Tailwind, NodeJS, Postgresql, Prisma, Docker <br> E padrões de arquitetura com código limpo: SOLID, Repository Pattern, Factory Pattern e Injeção de Depêndencia
-## Tecnologias que estou estudando... 🧠
+## Me graduando em análise e desenvolvimento de sistemas no Instituto Federal de Roraima :) <br>
+###### Estou me dedicando em estudar desenvolvimento Full-Stack com: TypeScript, ReactJS, NextJS, Tailwind, NodeJS, Postgresql, Prisma, Docker <br> E padrões de arquitetura com código limpo: SOLID, Repository Pattern, Factory Pattern e Injeção de Depêndencia
+### Tecnologias que estou estudando... 🧠
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,typescript,nodejs,nextjs,docker,tailwind,prisma,postgres,mongo" />
