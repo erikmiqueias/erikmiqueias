@@ -1,24 +1,37 @@
+ <div>
+<a href="https://www.instagram.com/erik.miqueias_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:erikmiqueiaspereira@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/erik-miqueias-330471255/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ### "Hello World!" 👋 Eu sou Erik! ( ͡ᵔ ͜ʖ ͡ᵔ)
 
 
-<a href="https://www.linkedin.com/in/erik-miqueias-330471255/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.instagram.com/erik.miqueias_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a><a src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a><img src="https://img.shields.io/github/followers/erikmiqueias?logo=github&style=for-the-badge"/>[![Gmail Badge](https://img.shields.io/badge/send%20me%20a%20email-silver?style=for-the-badge&logo=gmail&link=mailto:erikmiqueiaspereira@gmail.com.br)](mailto:erikmiqueiaspereira@gmail.com)
+### Me graduando em análise e desenvolvimento de sistemas no Instituto Federal de Roraima :) <br>
+
+##### Estou dedicando em estudar desenvolvimento Full-Stack com: TypeScript, ReactJS, NextJS, Tailwind, NodeJS, Postgresql, Prisma, Docker <br> E padrões de arquitetura: SOLID, Clean Code, Repository Pattern, Factory Pattern e Injeção de Depêndencia
 
 <div  align="center" >
-  - Atualmente me graduando em Análise e Desenvolvimento de Sistemas 👨‍🎓
   <br>
 </div>
 
 ### Tecnologias que estou estudando... 🧠
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,typescript,nodejs,nextjs,docker,tailwind,prisma,postgres,mongo" />
   </a>
 </p>
 
-<div align="center">
-  
-[![Erik top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erikmiqueias&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+
+<div>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=erikmiqueias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikmiqueias&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
   
  </div>
 
  ![Snake animation](https://raw.githubusercontent.com/erikmiqueias/erikmiqueias/output/github-contribution-grid-snake-dark.svg)
+
+
