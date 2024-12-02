@@ -1,6 +1,6 @@
  <div>
 <a href="https://www.instagram.com/erik.miqueias_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:erikmiqueiaspereira@outlook.com">
+<a href="mailto:erikmiqueiaspereira@outlook.com?subject='Olá'">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://www.linkedin.com/in/erik-miqueias-330471255/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
