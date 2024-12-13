@@ -33,6 +33,12 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erikmiqueias&show_icons=true&theme=dracula)
+<div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikmiqueias&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=erikmiqueias&show_icons=true&theme=dracula"/>
+  </div>
+</div>
+
 
 ![Snake animation](https://raw.githubusercontent.com/erikmiqueias/erikmiqueias/output/github-contribution-grid-snake-dark.svg)
