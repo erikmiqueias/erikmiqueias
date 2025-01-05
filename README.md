@@ -1,10 +1,10 @@
 # "Hello World!" 👋 Eu sou Erik! ( ͡ᵔ ͜ʖ ͡ᵔ) - Desenvolvedor Full Stack
 
-<p align="center">
-<a href="https://www.linkedin.com/in/erik-miqueias-330471255/"><img src="https://img.shields.io/badge/-Erik%20Miqueias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:erikmiqueiaspereira@outlook.com"><img src="https://img.shields.io/badge/-erikmiqueiaspereira@outlook.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-</p>
+<div styles="display: flex; width: 100%;">
+    <a href="https://www.linkedin.com/in/erik-miqueias-330471255/"><img src="https://img.shields.io/badge/-Erik%20Miqueias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:erikmiqueiaspereira@outlook.com"><img src="https://img.shields.io/badge/-erikmiqueiaspereira@outlook.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <span> <img src="https://komarev.com/ghpvc/?username=erikmiqueias&label=Views&color=0e75b6&style=flat" alt="erikmiqueias" /> </span>
+</div>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
