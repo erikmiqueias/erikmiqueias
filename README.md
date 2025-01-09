@@ -20,6 +20,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcnui)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
@@ -28,6 +29,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
