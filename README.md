@@ -46,6 +46,3 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=erikmiqueias&show_icons=true&theme=dracula"/>
   </div>
 </div>
-
-
-![Snake animation](https://raw.githubusercontent.com/erikmiqueias/erikmiqueias/output/github-contribution-grid-snake-dark.svg)
