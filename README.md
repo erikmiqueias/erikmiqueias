@@ -39,12 +39,3 @@
 ![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-
-<div>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikmiqueias&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=erikmiqueias&show_icons=true&theme=dracula"/>
-  </div>
-</div>
