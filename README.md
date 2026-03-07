@@ -29,3 +29,4 @@
 ![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=E535AB)
