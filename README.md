@@ -1,10 +1,5 @@
 # "Hello World!" 👋 Eu sou Erik! ( ͡ᵔ ͜ʖ ͡ᵔ) - Desenvolvedor Full Stack
 
-<div styles="display: flex; width: 100%;">
-    <a href="https://www.linkedin.com/in/erik-miqueias-330471255/"><img src="https://img.shields.io/badge/-Erik%20Miqueias-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:erikmiqueiaspereira@outlook.com"><img src="https://img.shields.io/badge/-erikmiqueiaspereira@outlook.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</div>
-
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - Tive contato com a programação por meio de colegas de trabalho, pensei que não era pra mim, mas com o tempo me encontrei nesse mundo maravilhoso que é a tecnologia, então comecei a me aprofundar e buscar desafios para me aperfeiçoar e alcançar meus objetivos
