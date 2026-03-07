@@ -18,11 +18,6 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcnui)
 
-<h3>📱 &nbsp;Mobile:</h3>
-
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
