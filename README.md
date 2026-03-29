@@ -1,12 +1,10 @@
 # "Hello World!" 👋 Eu sou Erik! ( ͡ᵔ ͜ʖ ͡ᵔ) - Desenvolvedor Full Stack
----
 
 ## 🧠 About Me
 
 Desenvolvedor full stack focado em aplicações modernas, escaláveis e bem estruturadas.
 Trabalho com React, TypeScript, Node.js e bancos SQL/NoSQL.
 
----
 
 ## ⚡ Tech Stack
 
