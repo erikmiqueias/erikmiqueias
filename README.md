@@ -1,12 +1,13 @@
 # "Hello World!" 👋 Eu sou Erik! ( ͡ᵔ ͜ʖ ͡ᵔ) - Desenvolvedor Full Stack
 
-## 🧠 About Me
+## About Me
 
-Desenvolvedor full stack focado em aplicações modernas, escaláveis e bem estruturadas.
+Desenvolvedor Full Stack focado em aplicações modernas, escaláveis e bem estruturadas. 
 Trabalho com React, TypeScript, Node.js e bancos SQL/NoSQL.
 
+**Confira também meu portfólio:** https://erikmiqueias.vercel.app
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-18181B?style=flat\&logo=html5\&logoColor=8B5CF6)
 ![CSS](https://img.shields.io/badge/CSS-18181B?style=flat\&logo=css\&logoColor=8B5CF6)
