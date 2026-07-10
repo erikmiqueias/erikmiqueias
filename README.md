@@ -5,8 +5,6 @@
 Desenvolvedor Full Stack focado em aplicações modernas, escaláveis e bem estruturadas. 
 Trabalho com React, TypeScript, Node.js e bancos SQL/NoSQL.
 
-**Confira também meu portfólio:** https://erikmiqueias.vercel.app
-
 ## Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-18181B?style=flat\&logo=html5\&logoColor=8B5CF6)
