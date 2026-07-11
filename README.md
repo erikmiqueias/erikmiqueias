@@ -28,7 +28,16 @@ Trabalho com React, TypeScript, Node.js e bancos SQL/NoSQL.
 ![Vitest](https://img.shields.io/badge/Vitest-18181B?style=flat\&logo=vitest\&logoColor=8B5CF6)
 ![Zod](https://img.shields.io/badge/Zod-18181B?style=flat\&logo=zod\&logoColor=8B5CF6)
 
----
-
 ## 📊 Activity
-![Summary Erik](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erikmiqueias&theme=dracula)
+
+| | |
+| :---: | :---: |
+| ![Summary Erik](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erikmiqueias&theme=tokyonight) | <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=erikmiqueias&show_icons=true&theme=tokyonight&locale=pt-br"/> |
+
+<div align="center" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erikmiqueias/erikmiqueias/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erikmiqueias/erikmiqueias/output/github-contribution-grid-snake.svg">
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/erikmiqueias/erikmiqueias/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
